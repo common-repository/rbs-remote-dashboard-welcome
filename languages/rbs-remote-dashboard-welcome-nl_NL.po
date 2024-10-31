@@ -1,0 +1,65 @@
+# RBS RDW POT
+# Copyright (C) 2017 ...
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: RBS RDW\n"
+"Report-Msgid-Bugs-To: Roadbear Studios <hello@roadbearstudios.com>\n"
+"POT-Creation-Date: 2017-05-09 22:15+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Roadbear Studios <hello@roadbearstudios.com>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: rbs-remote-dashboard-welcome.php:4
+msgid "RBS Remote Dashboard Welcome"
+msgstr "RBS Remote Dashboard Welcome"
+
+#: rbs-remote-dashboard-welcome.php:5
+msgid "https://roadbearstudios.com/rbs-centralized-custom-dashboard"
+msgstr "https://roadbearstudios.com/rbs-centralized-custom-dashboard"
+
+#: rbs-remote-dashboard-welcome.php:6
+msgid ""
+"Load a Remote Dashboard Welcome page from a central server to show to your "
+"users on their own website."
+msgstr ""
+"Laad een Remote Dashboard Welkom pagina in vanaf een centrale server en toon "
+"deze aan je klanten op hun eigen dashboard."
+
+#: rbs-remote-dashboard-welcome.php:79 rbs-remote-dashboard-welcome.php:131
+msgid "Remote Dashboard Welcome Settings"
+msgstr "Remote Dashboard Welcome Instellingen"
+
+#: rbs-remote-dashboard-welcome.php:86
+msgid "Url to remote dashboard page:"
+msgstr "URL naar de remote dashboard pagina:"
+
+#: rbs-remote-dashboard-welcome.php:112
+msgid "Settings"
+msgstr "Instellingen"
+
+#: rbs-remote-dashboard-welcome.php:115
+msgid "Support"
+msgstr "Support"
+
+#: rbs-remote-dashboard-welcome.php:145
+msgid ""
+"Enter the url of your Remote Dashboard Welcome Control page below, the "
+"content of this page will be shown instead of the default WordPress Welcome "
+"on the dashboard."
+msgstr ""
+"Voer hier de url in van de Remote Dashboard Welcome Control pagina. De "
+"content van deze pagina zal worden ingeladen op het WordPress dashboard."
